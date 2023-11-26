@@ -6,7 +6,7 @@
 
 int board_initboard(void);
 
-int board_printBoardStatus(void); //턴 돌 때마다 출력
+
 
 int board_getBoardCoin(int pos);
  

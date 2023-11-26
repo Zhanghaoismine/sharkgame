@@ -127,7 +127,7 @@ int main(int argc, char *argv[])
 	            printPlayerStatus();
 		
 		//2-2. 주사위 던지기 
-		printtf("%s turn", player_name[turn]); 
+		printf("%s turn", player_name[turn]); 
 		printf("press any key to continue: ");
 		scanf("%d", &c);
 		
